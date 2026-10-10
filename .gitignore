@@ -56,7 +56,6 @@ emsdk/
 build-wasm/
 
 .idea/
-.vscode/
 
 .venv/
 venv/
@@ -107,5 +106,5 @@ downloads/
 Thumbs.db
 cookies.txt
 
-.env
-.env.local
+config.bat
+node_modules
